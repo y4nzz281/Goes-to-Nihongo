@@ -1,0 +1,14 @@
+{
+  "name": "Wish List to Nihongo",
+  "short_name": "Nihongo",
+  "description": "Checklist pribadi persiapan kerja ke Jepang.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "id",
+  "background_color": "#f4f4f5",
+  "theme_color": "#c8102e",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
